@@ -1,0 +1,48 @@
+17:17:42.638 - INFO - UTILS - version=1.11.4
+17:17:42.638 - INFO - UTILS - developer: Oliver Schwengers, github.com/oschwengers
+17:17:42.639 - INFO - UTILS - command: /home/joao_facio/miniconda3/envs/bakta_env/bin/bakta --db ../db-light/ --output Data/Raw/Processed --meta --threads 4 --force Data/Raw/Bins/GCA_026645595.1_ASM2664559v1_genomic.fna
+17:17:42.639 - INFO - UTILS - local time: 2025-12-18 17:17:42
+17:17:42.639 - INFO - UTILS - machine: type=, cores=12
+17:17:42.639 - INFO - UTILS - system: type=Linux, release=6.1.0-18-amd64
+17:17:42.639 - INFO - UTILS - python: version=3.11.14, implementation=CPython
+17:17:42.639 - INFO - CONFIG - threads=4
+17:17:42.639 - INFO - CONFIG - verbose=False
+17:17:42.640 - INFO - CONFIG - debug=False
+17:17:42.640 - INFO - CONFIG - database: type=parameter, path=/home/joao_facio/db-light
+17:17:42.640 - INFO - CONFIG - tmp-path=/tmp/tmpwshvnafo
+17:17:42.640 - INFO - CONFIG - genome-path=/home/joao_facio/MXD/Data/Raw/Bins/GCA_026645595.1_ASM2664559v1_genomic.fna
+17:17:42.640 - INFO - CONFIG - min_contig_length=1
+17:17:42.640 - INFO - CONFIG - prefix=GCA_026645595.1_ASM2664559v1_genomic
+17:17:42.640 - INFO - CONFIG - output-path=/home/joao_facio/MXD/Data/Raw/Processed
+17:17:42.640 - INFO - CONFIG - force=True
+17:17:42.640 - INFO - CONFIG - genus=None
+17:17:42.640 - INFO - CONFIG - species=None
+17:17:42.640 - INFO - CONFIG - strain=None
+17:17:42.640 - INFO - CONFIG - plasmid=None
+17:17:42.640 - INFO - CONFIG - complete=False
+17:17:42.640 - INFO - CONFIG - prodigal_tf=None
+17:17:42.640 - INFO - CONFIG - translation_table=11
+17:17:42.640 - INFO - CONFIG - gram=?
+17:17:42.640 - INFO - CONFIG - compliant=False
+17:17:42.640 - INFO - CONFIG - meta=True
+17:17:42.640 - INFO - CONFIG - locus=None
+17:17:42.640 - INFO - CONFIG - locus-tag=None
+17:17:42.640 - INFO - CONFIG - locus-tag-increment=1
+17:17:42.640 - INFO - CONFIG - keep_contig_headers=False
+17:17:42.640 - INFO - CONFIG - replicon-table=None
+17:17:42.640 - INFO - CONFIG - regions=None
+17:17:42.640 - INFO - CONFIG - skip-tRNA=False
+17:17:42.640 - INFO - CONFIG - skip-tmRNA=False
+17:17:42.640 - INFO - CONFIG - skip-rRNA=False
+17:17:42.640 - INFO - CONFIG - skip-ncRNA=False
+17:17:42.640 - INFO - CONFIG - skip-ncRNA-region=False
+17:17:42.640 - INFO - CONFIG - skip-CRISPR=False
+17:17:42.640 - INFO - CONFIG - skip-CDS=False
+17:17:42.640 - INFO - CONFIG - skip-pseudo=False
+17:17:42.640 - INFO - CONFIG - skip-sORF=False
+17:17:42.640 - INFO - CONFIG - skip-gap=False
+17:17:42.640 - INFO - CONFIG - skip-ori=False
+17:17:42.640 - INFO - CONFIG - skip-filter=False
+17:17:42.640 - INFO - CONFIG - skip-plot=False
+17:17:42.640 - INFO - DB - detected: major=6, minor=0, type=light, date=2025-02-24
+17:17:42.640 - ERROR - DB - file not readable! file=antifam.h3p
