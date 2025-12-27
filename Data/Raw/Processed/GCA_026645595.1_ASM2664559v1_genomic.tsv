@@ -1,9 +1,4 @@
-# Annotated with Bakta
-# Software: v1.11.4
-# Database: v6.0, full
-# DOI: 10.1099/mgen.0.000685
-# URL: github.com/oschwengers/bakta
-#Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+SequenceId	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
 contig_1	cds	53	2047	-	HENGBM_00001	mdoB	Alkaline phosphatase superfamily phosphoglycerol transferase-related protein	COG:COG1368, COG:M, SO:0001217, UniRef:UniRef50_A0A0B4XL04, UniRef:UniRef90_K0CJU7
 contig_1	cds	2092	2499	-	HENGBM_00002	sspB	ClpXP protease specificity-enhancing factor	COG:COG2969, COG:O, RefSeq:WP_022996217.1, SO:0001217, UniParc:UPI0003B91C96, UniRef:UniRef100_A0A9Q3W356, UniRef:UniRef50_K0CJC4, UniRef:UniRef90_K0CJC4
 contig_1	cds	2577	3215	-	HENGBM_00003	sspA	stringent starvation protein SspA	COG:COG0625, COG:O, GO:0005515, GO:0006749, RefSeq:WP_022996218.1, SO:0001217, UniParc:UPI0003B845C5, UniRef:UniRef100_A0A9Q3W736, UniRef:UniRef50_A0A2E2DB78, UniRef:UniRef90_K0CGU9
